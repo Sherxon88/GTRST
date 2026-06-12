@@ -1,9 +1,11 @@
 {
   "name": "G-TRUST",
   "symbol": "GTR",
+  "version": "1.0.0",
   "description": "G-TRUST (GTR) — A proprietary software-layer protocol for global internet bandwidth brokerage. This technology utilizes existing hardware (routers, mobile devices) to create a decentralized peer-to-peer connectivity marketplace. All intellectual property and algorithmic logic are owned by Saydakbarov Sherali. As a software-only solution, users are solely responsible for compliance with their local telecommunications and tax regulations.",
   "image": "https://raw.githubusercontent.com/Sherxon88/GTRST/main/1768128017633.jpg",
   "decimals": 9,
+  "audit_status": "Internal Proprietary Audit",
   "websites": [
     "https://github.com/Sherxon88/GTRST"
   ],
