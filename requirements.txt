@@ -1,0 +1,6 @@
+aiogram==3.7.0
+aiosqlite==0.20.0
+python-dotenv==1.0.1
+cryptography==42.0.8
+apscheduler==3.10.4
+aiohttp==3.9.5
